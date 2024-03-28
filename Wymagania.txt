@@ -1,0 +1,24 @@
+SUML 2023/2024
+
+dr Wojciech Oronowicz-Jaśkowiak
+
+Polsko-Japońska Akademia Technik Komputerowych w Warszawie
+
+Zadanie 4. 📚
+
+Podstawy Streamlit II.
+
+Zadanie 1.
+Skrypt app1.py nie jest kompletny, brakuje w nim kilku istotnych informacji.
+
+1. Stwórz zmienną sex_d oraz wprowadź odpowiednie oznaczenia dla kobiet oraz mężczyzn (analogicznie jak zostało to zrobione w przypadku zmiennych pclass_d oraz embarked_d).
+2. Wprowadź tytuł aplikacji.
+3. Zamień grafikę na bardziej adekwatną do aplikacji.
+4. Wprowadź (do lewej kolumny) nową zmienną pclass_radio umożliwiającą prowadzenie jednej z trzech opcji (klasa pierwsza, druga oraz trzecia).
+5. W prawej kolumnie znajdują się zmienne odnoszące się do wieku, liczby członków rodziny, opłaty za przejazd. Sprawdź w oryginalnym zbiorze danych jakie wartości minimalne oraz maksymalne mogą zostać wprowadzone przez użytkownika i zmień parametry min_value oraz max_value.
+6.Stwórz konto na GitHub oraz Share Streamlit. Stwórz nowe repozytorium w GitHub, w którym umieścisz poprawioną app1.py, plik z wymaganiami (.txt) oraz wytrenowany model. Wykorzystaj usługę Share Streamlit do stworzenia aplikacji.
+
+Zadanie 2.
+Wytrenuj model ML na innych danych - z Zadania 2. (DSP_8), wykorzystaj kod z notatnika z jupyter notebook jako szablon. Zapisz swój model ML jako model.sv. Przewidujesz chorobę serca (y - HeartDisease) na podstawie pozostałych x.
+Przygotuj nową aplikację w Streamlit, wykorzystaj app1.py jako szablon aplikacji. Spraw, żeby powstała aplikacja, która po wprowadzeniu określonych danych zdrowotnych będzie w stanie przewidzieć czy u danej osoby wystąpi choroba serca.
+Co przesłać jako rozwiązanie zadania? 💻 Plik .ipynb zawierający kod oraz wyniki (print) oraz zrzut ekranu prezentujący uruchomienie aplikacji na local host. Plik prześlij korzystając z Microsoft Teams – nie w treści wiadomości, nie mailowo – w zakładce „Zadania”.
